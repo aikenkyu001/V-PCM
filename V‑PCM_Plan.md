@@ -1,6 +1,8 @@
 # **プロジェクト名：V‑PCM (Virtual Photonic Computing Machine)**  
 **～数学公理からソフトウェア空間へ：光子知能の仮想実装～**
 
+**DOI**: [10.5281/zenodo.19549762](https://doi.org/10.5281/zenodo.19549762)
+
 ---
 
 ## 【フェーズ1】知能の「形」を設計する（PKGF：論理・意味層）

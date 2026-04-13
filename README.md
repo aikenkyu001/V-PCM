@@ -73,7 +73,11 @@ The system demonstrates a clear **Geometric Phase Transition** at $t \approx 100
 
 ## 📜 Citation
 If you use this engine or theory in your research, please cite:
-> Miyata, F. (2026). Constructive Demonstration of Realizability and Numerical Verification of V-PCM: A Virtual Photonic Computing Engine Based on Parallel Key Geometric Flow (PKGF) Theory.
+> Miyata, F. (2026). Constructive Demonstration of Realizability and Numerical Verification of V-PCM: A Virtual Photonic Computing Engine Based on Parallel Key Geometric Flow (PKGF) Theory. DOI: [10.5281/zenodo.19549762](https://doi.org/10.5281/zenodo.19549762)
+
+---
+**Author**: Fumio Miyata  
+ry.
 
 ---
 **Author**: Fumio Miyata  
